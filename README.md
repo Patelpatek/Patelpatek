@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pate
+- 👋 Hi, I’m @Patel
 - 👀 I’m interested in.doing tech🥲
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,4 +7,4 @@
 
 <!---
 Patelpatek/Patelpatek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link 
+You can click the Previe
